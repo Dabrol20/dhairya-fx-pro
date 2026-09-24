@@ -9,3 +9,9 @@ math
 openai
 sqlite3
 pathlib
+streamlit>=1.39.0
+pandas>=2.2.0
+numpy>=2.0.0
+plotly>=5.24.0
+yfinance>=0.2.54
+openai>=1.50.0
