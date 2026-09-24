@@ -2,3 +2,10 @@ groq
 requests
 streamlit
 plotly
+numpy
+pandas
+yfinance
+math
+openai
+sqlite3
+pathlib
